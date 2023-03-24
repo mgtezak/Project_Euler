@@ -1,4 +1,4 @@
-'''Find the minimal path sum from the top left to the bottom right by only moving right and down'''
+'''Find the minimal path sum from the top left to the bottom right by moving left, right, up, and down.'''
 
 from heapq import heappush, heappop
 
