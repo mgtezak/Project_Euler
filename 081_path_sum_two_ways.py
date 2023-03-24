@@ -7,7 +7,7 @@
 #           [537, 699, 497, 121, 956], 
 #           [805, 732, 524,  37, 331]]
 
-path = 'Project_Euler/puzzle_input/081-082.txt'
+path = 'Project_Euler/puzzle_input/081-083.txt'
 with open(path) as file:
     matrix = [[int(n) for n in line.split(',')] for line in file.read().split('\n')]
 
